@@ -1,0 +1,3 @@
+regresi
+logistik regresi
+k nearest network
